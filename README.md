@@ -1,2 +1,2 @@
-# P1
-entrainement P1
+# Jeu divers et varié
+Voici pleins de jeu codé de manière très simple.
